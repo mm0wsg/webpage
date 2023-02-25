@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MM0WSG - Glasgow University Wireless Society
-email: mm0wsg@gmail.com
+title: MS0WSG - Glasgow University Wireless Society
+email: ms0wsg@neotes.uk
 description: >- # this means to ignore newlines until "baseurl:"
   An amateur radio club for the students, staff and alumni of the University of Glasgow.
   Founded in 2023
