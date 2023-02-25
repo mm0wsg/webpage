@@ -10,7 +10,7 @@ On 11th February 2023, Torin MM1STK and Michael 2M0GUI took part in the CQ WPX R
 
 It was a day of firsts. As mentioned, it was the first time that the Club Call had been used on HF. It was Michael's first time using FLDigi in a contest, and it was Torin's first time using RTTY!
 
-![Torin operating](/images/Torin%20oppo%20web.jpeg)
+![Torin operating](/images/TorinOppo.jpeg)
 
 After a slow start (who'd have guessed that RTTY-Reverse wouldn't make many contacts?!) the pair made just shy of 100 QSOs - although sadly about four were lost from the Log early on.
 
