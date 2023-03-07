@@ -4,5 +4,5 @@
 
 layout: home
 ---
-Welcome to the website of the Glasgow University Wireless Society. Click below to see our recent blog posts, or click above to find out more about us or read our Constitution.
+Welcome to the website of the Glasgow University Wireless Society. Click below to see our recent **blog posts**, or click above to find out more **about us** or read our **Constitution**.
 ![GUWS logo](images/logo.png)
