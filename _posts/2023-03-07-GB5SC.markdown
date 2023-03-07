@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "GB5SC Special Event Station"
+date:   2023-05-04 23:59:59 +0000
+categories: jekyll update
+---
+# GB5SC Special Event Station - Centenary of the BBC in Scotland
+
+Over last weekend, in collaboration with [WoSARS](https://www.wosars.club), the [BBC Amateur Radio Group](https://g8bbc.org) ran a special event station (callsign [GB5SC](https://www.qrz.com/db/GB5SC)) to mark the centenary of the BBC broadcasting in Scotland. 
+
+![The GB5SC Shack](/images/IMG_0289.jpg)
+*Banner on outside of shack*
+
+On 6th March 1923, BBC Direector General, Mr John Reith, a Scotsman himself, made the first BBC broadast - 'This is 5SC calling'. One hundred years later, it was the turn of Mr Tim Davie, Reith's successor in the role, to visit the amateur radio station on the roof of Pacific Quay, and use the callsign GB5SC to again call out into the airwaves.
+
+One of our members, Michael (2M0GUI) visited and operated the special event station over the 'graveyard shift' of 9pm on Saturday to 1.30am on Sunday. While the bands weren't in great shape, he made a number of CW contacts on HF, as well as his first contact using the Oscar-100 satellite. The weekend also saw a large ARRL SSB contest take place, meaning that most operators were partaking in that instead of contacting GB5SC. However, by the end of operating there were many hundreds of contacts in the log, from right across the globe.
+
+![Michael operating](/images/IMG_0288.jpg)
+*2M0GUI operating*
+
+It was great that, earlier on Saturday , Torin MM1STK was able to call in to the GB5SC station using the club call (MS0WSG). The station, as well as running on HF and Microwave, ran a 2m VHF station giving the opportunity for local contacts.
+
+The BBC created a short video about the station which can be viewed here:
+[BBC Video about the GB5SC station](https://twitter.com/bbcscotcomms/status/1632718508621549570?s=61&t=D5UnqJ4SoK2rCUtIeOeuvA)
+They also wrote a [press release](https://www.bbc.com/mediacentre/2023/bbc-scotland-centenary-event-radio).
