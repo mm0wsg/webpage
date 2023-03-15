@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "RSGB 80m CC CW Contest"
+date:   2023-03-04 23:59:59 +0000
+categories: jekyll update
+---
+# RSGB 3.5MHz Club Championship CW Contest
+
+On Tuesday 15th March, Michael (GM5AUG) took part in the RSGB's 80m Club Championship Morse code Contest, using the Club callsign (MS0WSG). The contest, which ran from 8pm to 9.30pm, is organised by the RSGB with the aim of "promoting competition between Affiliated Societies". You can find more information about the Contest by clicking [here](https://www.rsgbcc.org/hf/rules/2023/r80mcc.shtml).
+
+As the GUWS is not yet affiliated with the RSGB, Michael took part as an individual. However, members of Clubs that are formally affiliated with the RSGB can all take part in these contests and contribute points towards their overall Club score. 
+
+There are three forms of the 80m CC contests - Morse code, Data and SSB (aka phone), meaning you don't have to be into Morse code to take part!
+
+The official scores won't be released for some time but Michael put in a claimed score of 48 QSOs, giving a total of 52 points. Although nowhere near the highest score of the night, it was higher than many other contributions. Given his station is not optimised for contesting (having a rotatable antenna is often a help - not something Michael has!) he was quite pleased with the score.
+
+Michael's contesting software, SkookumLogger, produces a statistic report, which can be viewed by clicking [here](../SkookumLoggerStatisticReport.pdf).
