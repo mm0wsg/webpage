@@ -14,4 +14,4 @@ There are three forms of the 80m CC contests - Morse code, Data and SSB (aka pho
 
 The official scores won't be released for some time but Michael put in a claimed score of 48 QSOs, giving a total of 52 points. Although nowhere near the highest score of the night, it was higher than many other contributions. Given his station is not optimised for contesting (having a rotatable antenna is often a help - not something Michael has!) he was quite pleased with the score.
 
-Michael's contesting software, SkookumLogger, produces a statistic report, which can be viewed by clicking [here](/_files/SkookumLoggerStatisticReport.pdf).
+Michael's contesting software, SkookumLogger, produces a statistic report, which can be viewed by clicking [here](/files/SkookumLoggerStatisticReport.pdf).

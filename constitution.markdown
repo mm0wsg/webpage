@@ -8,4 +8,4 @@ permalink: /constitution/
 
 Below you can click to read our Society's Constitution, agreed on 23rd February 2023:
 
-[Click here to read our Constitution](/_files/Constitution.pdf)
+[Click here to read our Constitution](/files/Constitution.pdf)
