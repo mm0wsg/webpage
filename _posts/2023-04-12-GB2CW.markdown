@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "GUWS member begins GB2CW transmissions for Glasgow"
+date:   2023-04-12 10:29:59 +0000
+categories: jekyll update
+---
+# GB2CW Slow Morse Code transmissions for Glasgow area
+
+GUWS member, Michael GM5AUG, has recently received permission from the RSGB's GB2CW Coordinator, Roger G3LDI, to begin a series of slow Morse code transmissions from his QTH south of the city.
+
+The aim of these transmissions is to help other amateurs learn Morse code. As Roger explains in his introduction to GB2CW
+>*GB2CW was instigated a number of years ago to allow prospective amateurs to complete their Radio Amateur Examination to allow them to use HF. Volunteers helped prospective licensees attain their 12 wpm test which was then mandatory.*
+>*When Morse was discarded from the exam and all amateurs allowed access to HF, the scheme more or less disintegrated. A few carried on tutoring but very little publicity appeared and it was in 2007 that G3LDI questioned the viability of revising the GB2CW scheme. The rest, as they say,  is history.*
+>*We now have a working scheme with between 35 and 40 transmissions on a more or less even split between HF and VHF from a team of volunteer tutors once again. Not only that, but we have a list of volunteer assessors that can invigilate at an organised Morse test with a very attractive certificate being available from the RSGB. This is endorsable for speeds up to and including 30 wpm.*
+
+Because Michael wanted his broadcasts, which he makes under the special callsign **GB2CW**, to be as readily accessible as possible, he decided to transmit using FM on the 2m (144MHz) band. To ensure reliable speed, he uses computer generated Morse, allowing him to vary the speed as necessary. To begin with he is focussing on random letter groups to help his students learn their Morse alphabet, but before long will move to random words, numbers, prosigns and eventually full QSOs.
+
+Michael, who tends to operate in Morse code (CW), says that learning CW can *'take a while, but is worth every minute'*. Currently he has seven students signed up, but would be pleased to welcome any others who are interested. He broadcasts on 144.600MHz at 8pm local time on Mondays and Thursdays. He also broadcasts GB2CW Morse code on a Sunday night at 7.30pm on 7.066MHz (40m).
+
+Get in touch with Michael if you want any further information - gm5aug@topple.scot. Or, for more information about GB2CW, visit the [GB2CW website](https://rsgb.org/main/operating/morse/certificate-of-competency/gb2cw-broadcast-schedule/) or read Roger G3LDI's document by [clicking here](https://www.mm0wsg.radio/files/gb2cw.pdf).
