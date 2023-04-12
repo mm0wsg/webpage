@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GUWS member begins GB2CW transmissions for Glasgow"
-date:   2023-04-12 10:29:59 +0000
+date:   2023-04-12 00:00:59 +0000
 categories: jekyll update
 ---
 # GB2CW Slow Morse Code transmissions for Glasgow area
