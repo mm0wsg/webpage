@@ -10,6 +10,6 @@ The Glasgow University Wireless Society has two Club callsigns - MS0WSG and GS4A
 
 **See our most recent 15 QSOs on both callsigns below:**
 
-<iframe align="top" frameborder="0" height="500" scrolling="yes" src="https://logbook.qrz.com/lbstat/MS0WSG/" width="640"></iframe>
+<iframe align="top" frameborder="0" height="500" scrolling="yes" src="https://logbook.qrz.com/lbstat/GS4AGU/" width="640"></iframe>
 
 <iframe align="top" frameborder="0" height="500" scrolling="yes" src="https://logbook.qrz.com/lbstat/MS0WSG/" width="640"></iframe>
