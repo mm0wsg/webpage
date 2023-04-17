@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Former Glasgow University callsign reactivated"
+date:   2023-04-17 00:00:59 +0000
+categories: jekyll update
+---
+# GM4AGU - another callsign for the Glasgow University Wireless Society
+
+We are pleased to announce, following conversations with Ofcom and Chris GM3WOJ, former holder, that the callsign GM4AGU (or GS4AGU) has been reissued to the Glasgow University Wireless Society to use alongside our other callsign, MS0WSG. Clubs in the UK can use either the standard RSL letter (M for Scotland), or a special Club RSL (S in Scotland) as part of their callsigns. Therefore the Club could potentially use either GM4AGU, GS4AGU, MS0WSG or MM0WSG. Highlighting we are a Club, we tend to use *S* in our callsign.
+
+The callsign was used by the Glasgow University Radio Club through from the 1960s to the 1980s. Chris, GM3WOJ, writes
+> *I studied (most of the time!) at GU from 1969 until 1974 - we had quite an active radio club which met in a basement room of George Service House - we ran a feeder up to the roof for an RX-only antenna.*
+
+The Glasgow University Wireless Society is proud to be following in the footsteps of former Radio Clubs, and to number among its membership members of previous GU clubs. It is hoped that the newly reissued callsign will be a symbolic link between the past and the present.
+
+If anyone has further information about the previous Clubs, please get in touch, as we would like to put some information on this page. Similarly if you, or someone you know, was either a member of one of the previous Clubs, or indeed studied or worked at the University, please consider joining and supporting our new Society. Having the support of more experienced Hams will be essential if we are to encourage new people into the hobby.
+
+73 de Michael GM5AUG
