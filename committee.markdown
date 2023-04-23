@@ -19,7 +19,7 @@ As per our Constitution, the day to day running of the Society is entrusted to a
 
 **Our Office Holders**
 
-| **Chairman** | **Secretary** | **Treasurer** |
+| **<u>Chairman</u>** | **<u>Secretary</u>** | **<u>Treasurer</u>** |
 | :-----------: | :-----------: | :-----------: |
 | Michael Topple | Harry McDonald | Torin Storkey |
 | *GM5AUG* | *GM1VFR* | *MM1STK* |
