@@ -24,6 +24,7 @@ As per our Constitution, the day to day running of the Society is entrusted to a
 | Michael Topple | Harry McDonald | Torin Storkey |
 | *GM5AUG* | *GM1VFR* | *MM1STK* |
 | Divinity Undergraduate | Former Staff Member | Engineering Undergraduate |
+| ![Michael](images/Michael.jpg) | Image awaited | ![Torin](images/TorinCrop.jpeg) |
 
 In due course we hope to co-opt some 'Ordinary Members' onto the Committee.
 
