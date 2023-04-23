@@ -21,7 +21,7 @@ As per our Constitution, the day to day running of the Society is entrusted to a
 
 | **<u>Chairman</u>** | **<u>Secretary</u>** | **<u>Treasurer</u>** |
 | :-----------: | :-----------: | :-----------: |
-| Michael Topple | Harry McDonald | Torin Storkey |
+| **Michael Topple** | **Harry McDonald** | **Torin Storkey** |
 | *GM5AUG* | *GM1VFR* | *MM1STK* |
 | Divinity Undergraduate | Former Staff Member | Engineering Undergraduate |
 | ![Michael](images/Michael.jpg) | ![Harry](images/Harry.jpg) |  ![Torin](images/TorinCrop.jpeg) |
