@@ -18,7 +18,7 @@ Our **GS4AGU** callsign has a far earlier pedigree, however. The image below is 
 
 A year later, in January 1973, the Glasgow University Club came third in Scotland in the *Short Wave Magazine Club Contest*, held on 04 - 05 November 1972. 
 
-![SWM CC 1972]](images/SWMCC.png)
+![SWM CC 1972](images/SWMCC.png)
 
 At this point the trail goes cold. If you have any more information about the Glasgow Club, or its callsign GM4AGU, please let us know.
 
