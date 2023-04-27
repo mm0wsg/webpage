@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Glasgow University Wireless Society Affiliates with RSGB"
+date:   2023-04-27 00:00:59 +0000
+categories: jekyll update
+---
+# Glasgow University Wireless Society Affiliates with the Radio Society of Great Britain
+
+We are pleased to announce that the Glasgow University Wireless Society has become affiliated with the Radio Society of Great Britain - Membership Number 600011.
+
+The RSGB's website says:
+
+> Many amateur radio societies and clubs choose to affiliate with the Radio Society of Great Britain because they see club affiliation as an effective way of demonstrating their support for the aims and aspirations of the National Society
+
+>The Society welcomes this support because it can only strengthen its claim to speak on behalf of amateurs and amateur radio.
+
+>The Society recognises that much of the vitality of amateur radio lies within clubs and wishes to encourage all clubs, societies and groups to join us to advance amateur radio.
+
+Alongside the obvious benefit of being part of a larger group of likeminded people and clubs, some advantages to the Society being affiliated to the RSGB include:
+
+- Ability to participate in RSGB Affiliated Societies Contests
+- Third party liability insurance while taking part in Society events (such as /P operating days, for example)
+- Inclusion in the Club pages of RadCom and the RSGB Website
+- Use of the RSGB QSL Bureau for any Society QSL cards
+
+Our thanks go to Tony MM0TMZ, our wonderful Secretary Harry GM1VFR, and Debbie Hart (the RSGB's Membership Secretary) for organising this.
