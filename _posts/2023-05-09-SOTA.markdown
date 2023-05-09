@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "GUWS Members activate Ben Hope"
+date:   2023-05-10 00:00:59 +0000
+categories: jekyll update
+---
+# Glasgow University Wireless Society Members Activate Highland Summit
+
+GUWS members Cristian MM0UXD and Radu MM7CVF spent the Bank Holiday weekend activating the most northerly Munro in Scotland, Ben Hope (*Beinn Hòb* in Scots Gaelic). Devoted **Summits on the Air** fans, in recent weeks they have also activated Ben Vane and Beinn Narnain. They even called in to the GUWS Monday Night Net from the side of Ben Vane!11
+
+Ben Hope offers views across to the Orkney Islands and Pentland Firth and offers a good site for V/UHF contacts over some 100km. Cris and Radu also managed contacts into England, Wales, and Germany on HF.
+
+![Ben Hope](images/BenHope.png)
+*Ben Hope, from where Cris and Radu made their contacts*
+
+![The view from near the top](images/BenHope2.jpeg)
+*The view from near the top*
+
+You can find out more about SOTA by [visiting their website](https://www.sota.org.uk).
