@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GUWS Members activate Ben Hope"
-date:   2023-05-10 00:00:59 +0000
+date:   2023-05-15 00:00:59 +0000
 categories: jekyll update
 ---
 # Glasgow University Wireless Society Members Activate Highland Summit
