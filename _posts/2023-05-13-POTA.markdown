@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "GUWS Activity Afternoon"
+date:   2023-05-13 18:00:59 +0000
+categories: jekyll update
+---
+# Glasgow University Wireless Society activates GM-0110
+
+This afternoon, two GUWS members, Alžbeta (MM/OM1DP) and Michael (GM5AUG), together with Ross (SWL) operated /P in Kelvingrove Park, activating it with Parks On The Air. They operated on 40m in SSB and CW.
+
+As well as many interested looks, the /P operation sparked a few conversations with inquisitive passers by. The team worked stations in England, Ireland, Germany, Belgium and the Netherlands, all using 10w and an end-fed wire.
+
+![Alžbeta and Michael](images/GM0110.jpeg)
+*Alžbeta and Michael running GS4AGU/P*
+
+All contacts have been logged on POTA, as well as on QRZ.com.
