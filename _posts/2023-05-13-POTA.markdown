@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GUWS Activity Afternoon"
-date:   2023-05-13 18:00:59 +0000
+date:   2023-05-13 00:00:59 +0000
 categories: jekyll update
 ---
 # Glasgow University Wireless Society activates GM-0110
