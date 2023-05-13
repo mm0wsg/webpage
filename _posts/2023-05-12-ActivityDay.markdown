@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 # Glasgow University Wireless Society Activity Day - 13th May 2023 from 1.00pm
 
-Be sure to listen out for the Glasgow University Wireless Society as we go out /P in Kelvingrove Park, Glasgow (IO75UU), in the shadow of the historic University of Glasgow Campus.
+Be sure to listen out for the Glasgow University Wireless Society as we go out /P in Kelvingrove Park, Glasgow (IO75UU), in the shadow of the historic University of Glasgow Campus. We will use one or both Club callsigns - MS0WSG and GS4AGU.
 
 We will be setting up for around 1.00pm, and aim to be active on 40m, 20m and 15m, plus VHF if possible.
 
