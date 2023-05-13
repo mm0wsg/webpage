@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 # Glasgow University Wireless Society activates GM-0110
 
-This afternoon, two GUWS members, Alžbeta (MM/OM1DP) and Michael (GM5AUG), together with Ross (SWL) operated /P in Kelvingrove Park, activating it with Parks On The Air. They operated on 40m in SSB and CW.
+This afternoon, two GUWS members, Alžbeta (MM/OM1DP) and Michael (GM5AUG), together with Ross (SWL) operated /P in Kelvingrove Park, logging it with Parks On The Air. Sadly they didn't quite manage the minimum number of QSO's to have **activated** the park, but they made 8 QSOs and operated on 40m in SSB and CW.
 
 As well as many interested looks, the /P operation sparked a few conversations with inquisitive passers by. The team worked stations in England, Ireland, Germany, Belgium and the Netherlands, all using 10w and an end-fed wire.
 
