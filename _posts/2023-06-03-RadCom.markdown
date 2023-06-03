@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "GUWS Member writes for RadCom"
+date:   2023-06-03 00:00:59 +0000
+categories: jekyll update
+---
+# Glasgow University Wireless Society member, Chris GM3WOJ, writes for RadCom
+
+Chris Tran GM3WOJ (GU student 1969-1974) is well known in the Amateur Radio world. He is a successful contester and has an impressive station in the north east of Scotland.
+
+We were pleased to read Chris' article in the May RadCom, where he describes how he switches between transmit and receive at his high power contesting station. He shows a few switching systems and discusses logging software.
+
+Lastly, Chris offers some practical advice about shack layout to allow operators to make the most of their shacks.
+
+Chris' article can be found in the May RadCom, but a low resolution version is reproduced here. 
+
+![Part 1](images/Tran1.jpg)
+![Part 2](images/Tran2.jpg)
