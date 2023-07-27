@@ -12,7 +12,4 @@ We were pleased to read Chris' article in the May RadCom, where he describes how
 
 Lastly, Chris offers some practical advice about shack layout to allow operators to make the most of their shacks.
 
-Chris' article can be found in the May RadCom, but a low resolution version is reproduced here. 
-
-![Part 1](/images/Tran1.jpg)
-![Part 2](/images/Tran2.jpg)
+Chris' article can be found in the May RadCom, and his series continues in subsequent months.
