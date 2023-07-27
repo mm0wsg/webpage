@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 # Glasgow University Wireless Society member, Chris GM3WOJ, writes for RadCom
 
-Chris Tran GM3WOJ (GU student 1969-1974) is well known in the Amateur Radio world. He is a successful contester and has an impressive station in the north east of Scotland.
+Chris Tran GM3WOJ (GU student 1969-1974) is well known in the Amateur Radio community. He is a successful contester and has an impressive station in the north east of Scotland.
 
 We were pleased to read Chris' article in the May RadCom, where he describes how he switches between transmit and receive at his high power contesting station. He shows a few switching systems and discusses logging software.
 
