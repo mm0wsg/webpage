@@ -21,7 +21,7 @@ As per our Constitution, the day to day running of the Society is entrusted to a
 
 | **<u>Chairman</u>** | **<u>Secretary</u>** | **<u>Treasurer</u>** | **<u>Ordinary Member</u>** |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| **Michael Topple** | **Harry McDonald** | **Torin Storkey** | **Alžbeta Oracova** |
+| **Michael Topple** | **Harry McDonald** | **Torin Storkey** | **Alžbeta Oravcov** |
 | *GM5AUG* | *GM1VFR* | *MM1STK* | *MM/OM1DP*
 | Divinity Undergraduate | Former Staff Member | Engineering Undergraduate | Engineering Undergraduate |
 | [Email Michael](mailto:chairman@mm0wsg.radio) | [Email Harry](mailto:secretary@mm0wsg.radio) | [Email Torin](mailto:treasurer@mm0wsg.radio) |
