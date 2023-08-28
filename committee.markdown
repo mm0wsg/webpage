@@ -19,14 +19,13 @@ As per our Constitution, the day to day running of the Society is entrusted to a
 
 **Our Office Holders**
 
-| **<u>Chairman</u>** | **<u>Secretary</u>** | **<u>Treasurer</u>** |
-| :-----------: | :-----------: | :-----------: |
-| **Michael Topple** | **Harry McDonald** | **Torin Storkey** |
-| *GM5AUG* | *GM1VFR* | *MM1STK* |
-| Divinity Undergraduate | Former Staff Member | Engineering Undergraduate |
+| **<u>Chairman</u>** | **<u>Secretary</u>** | **<u>Treasurer</u>** | **<u>Ordinary Member</u>** |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| **Michael Topple** | **Harry McDonald** | **Torin Storkey** | **Alžbeta Oracova** |
+| *GM5AUG* | *GM1VFR* | *MM1STK* | *MM/OM1DP*
+| Divinity Undergraduate | Former Staff Member | Engineering Undergraduate | Engineering Undergraduate |
 | [Email Michael](mailto:chairman@mm0wsg.radio) | [Email Harry](mailto:secretary@mm0wsg.radio) | [Email Torin](mailto:treasurer@mm0wsg.radio) |
-| ![Michael](images/Michael.jpg) | ![Harry](images/Harry.jpg) |  ![Torin](images/TorinCrop.jpeg) |
+| ![Michael](images/Michael.jpg) | ![Harry](images/Harry.jpg) |  ![Torin](images/TorinCrop.jpeg) | Image awaited |
 
-In due course we hope to co-opt some 'Ordinary Members' onto the Committee.
 
 For more information on the role of the Commmittee, please see our Constitution tab at the top of the page.
