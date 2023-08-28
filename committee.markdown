@@ -25,7 +25,7 @@ As per our Constitution, the day to day running of the Society is entrusted to a
 | *GM5AUG* | *GM1VFR* | *MM1STK* | *MM/OM1DP*
 | Divinity Undergraduate | Former Staff Member | Engineering Undergraduate | Engineering Undergraduate |
 | [Email Michael](mailto:chairman@mm0wsg.radio) | [Email Harry](mailto:secretary@mm0wsg.radio) | [Email Torin](mailto:treasurer@mm0wsg.radio) |
-| ![Michael](images/Michael.jpg) | ![Harry](images/Harry.jpg) |  ![Torin](images/TorinCrop.jpeg) | Image awaited |
+| ![Michael](images/Michael.jpg) | ![Harry](images/Harry.jpg) |  ![Torin](images/TorinCrop.jpeg) | ![Alžbeta](images/alzbeta.jpeg) |
 
 
 For more information on the role of the Commmittee, please see our Constitution tab at the top of the page.
