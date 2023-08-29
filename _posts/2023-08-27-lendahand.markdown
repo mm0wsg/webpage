@@ -19,21 +19,34 @@ Michael GM5AUG (GUWS Chairman and DR13), said "It was excellent that the GUWS we
 See some photos below:
 
 ![Alžbeta up the ladder](/images/sanquhar/1.jpeg)
+Alžbeta up the ladder
 
 ![Torin operating](/images/sanquhar/2.jpeg)
+Torin operating
 
 ![Not me, 'Guv!](/images/sanquhar/3.jpeg)
+Not me, 'Guv!
 
 ![Torin cutting the dipole centre](/images/sanquhar/4.jpeg)
+Torin cutting the dipole centre
 
 ![Watch your back!](/images/sanquhar/5.jpeg)
+Watch your back!
 
 ![Fine tuning the dipole centre](/images/sanquhar/6.jpeg)
+Fine tuning the dipole centre
 
 ![Alžbeta drilling the dipole centre](/images/sanquhar/7.jpeg)
+Alžbeta drilling the dipole centre
 
 ![Michael and Alžbeta fitting the dipole](/images/sanquhar/8.jpeg)
+Michael and Alžbeta fitting the dipole
 
 ![A long way up!](/images/sanquhar/9.jpeg)
+A long way up!
 
-More photos to follow...
+![The Tower 1](/images/sanquhar/10.jpg)
+The Tower (1)
+
+![The Tower 2](/images/sanquhar/11.jpg)   
+The Tower (2)
