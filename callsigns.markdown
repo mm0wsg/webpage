@@ -4,8 +4,6 @@ title: Callsigns
 permalink: /callsigns/
 ---
 
-# Our Callsigns
-
 As you will read from [this blog update](https://www.mm0wsg.radio/jekyll/update/2023/04/17/GM4AGU.html), the Glasgow University Wireless Society has two callsigns assigned for our use.
 
 These are **MS0WSG** *(Wireless Society Glasgow)*, and **GS4AGU** *(Amateurs Glasgow University)*.
