@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "The New Academic Year Begins"
+date:   2023-09-29 00:00:59 +0000
+categories: jekyll update
+---
+After an enjoyable summer break, the GUWS returned with a bang on Friday evening with their inaugral meeting.
+
+After a successful leaflet campaign across campus, we were pleased to welcome three new members, Yinan, Tom and Adam.
+
+We've an exciting year ahead, including a Foundation Licence training day (on 21st October), a visit to the Stirling ARC's shack, and a Christmas outing. We are also planning to start monthly meetings, welcoming visiting speakers and arranging introductions to the many and exciting aspects of amateur radio.
+
+![GUWS Line-up](/images/guwsnew.jpg)
+Some of the GUWS members: Michael GM5AUG, Adam, Tom, Torin MM1STK, Yinan MM7HFB, Alzbeta OM1DP and Cris MM0UXD
+
+If you are interested in joining us, contact us from the front page.
