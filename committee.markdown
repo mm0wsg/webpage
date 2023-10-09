@@ -23,7 +23,7 @@ As per our Constitution, the day to day running of the Society is entrusted to a
 | *GM5AUG* | *MM/OM1DP* | *MM1STK* | |
 | Divinity Undergraduate | Engineering Undergraduate | Engineering Undergraduate | |
 | [Email Michael](mailto:chairman@mm0wsg.radio) | [Email Alžbeta](mailto:secretary@mm0wsg.radio) | [Email Torin](mailto:treasurer@mm0wsg.radio) |
-| ![Michael](images/Michael.jpg) | ![Alžbeta](images/alzbeta.jpg) |  ![Torin](images/TorinCrop.jpeg) |
+| ![Michael](images/Michael.jpg) | ![Alžbeta](images/alzbeta.jpeg) |  ![Torin](images/TorinCrop.jpeg) |
 
 GUWS is grateful to the hard work and sound guidance of former Secretary, Harry GM1VFR
 ![Harry](images/harry.jpg)
