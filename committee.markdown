@@ -26,6 +26,6 @@ As per our Constitution, the day to day running of the Society is entrusted to a
 | ![Michael](images/Michael.jpg) | ![Alžbeta](images/alzbeta.jpeg) |  ![Torin](images/TorinCrop.jpeg) |
 
 GUWS is grateful to the hard work and sound guidance of former Secretary, Harry GM1VFR
-![Harry](images/harry.jpg)
+![Harry](images/Harry.jpg)
 
 For more information on the role of the Commmittee, please see our Constitution tab at the top of the page.
