@@ -6,7 +6,7 @@ permalink: /committee/
 
 As per our Constitution, the day to day running of the Society is entrusted to an elected Committee. The relevant rules concerning the Committee are below, along with a brief introduction to the office holders.
 
->*...Full members (Student) shall make up at least 2/3 of the Committee, with Full members (Other) and Honorary members making up the remainder. (6)*
+>*...Full members (Student) shall make up at least 2/3 of the Committee, with Full members (Other) and Honorary members making up any remainder. (6)*
 >
 >*...The Committee, in whom the Society’s property shall be vested, shall consist of:
 >a. A Chairman who will preside at all meetings at which s/he is present. The Chairman must be a Full member (Student).
@@ -19,10 +19,13 @@ As per our Constitution, the day to day running of the Society is entrusted to a
 
 | **<u>Chairman</u>** | **<u>Secretary</u>** | **<u>Treasurer</u>** | **<u>Ordinary Member</u>** |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| **Michael Topple** | **Harry McDonald** | **Torin Storkey** | **Alžbeta Oravcov** |
-| *GM5AUG* | *GM1VFR* | *MM1STK* | *MM/OM1DP*
-| Divinity Undergraduate | Former Staff Member | Engineering Undergraduate | Engineering Undergraduate |
-| [Email Michael](mailto:chairman@mm0wsg.radio) | [Email Harry](mailto:secretary@mm0wsg.radio) | [Email Torin](mailto:treasurer@mm0wsg.radio) |
-| ![Michael](images/Michael.jpg) | ![Harry](images/Harry.jpg) |  ![Torin](images/TorinCrop.jpeg) | ![Alžbeta](images/alzbeta.jpeg) |
+| **Michael Topple** | **Alžbeta Oravcov** | **Torin Storkey** | vacant |
+| *GM5AUG* | *MM/OM1DP* | *MM1STK* | |
+| Divinity Undergraduate | Engineering Undergraduate | Engineering Undergraduate | |
+| [Email Michael](mailto:chairman@mm0wsg.radio) | [Email Alžbeta](mailto:secretary@mm0wsg.radio) | [Email Torin](mailto:treasurer@mm0wsg.radio) |
+| ![Michael](images/Michael.jpg) | ![Alžbeta](images/alzbeta.jpg) |  ![Torin](images/TorinCrop.jpeg) |
+
+GUWS is grateful to the hard work and sound guidance of former Secretary, Harry GM1VFR
+![Harry](images/harry.jpg)
 
 For more information on the role of the Commmittee, please see our Constitution tab at the top of the page.
