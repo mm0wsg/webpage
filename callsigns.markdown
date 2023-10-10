@@ -22,7 +22,7 @@ At this point the trail goes cold. If you have any more information about the Gl
 
 | Club Callsign | Held by | First Issued | QRZ.com page |
 | :---: | :---: | :---: | :---: |
-| **MS0WSG** | Torin MM1STK | 26 January 2023 | [here](https://www.qrz.com/db/ms0wsg) |
-| **GS4AGU** | Michael GM5AUG | 14 April 2023 <br> (*but first issued in late 1971*) | [here](https://www.qrz.com/db/gs4agu) |
+| **MS0WSG** | Torin MM1 STK | 26 January 2023 | [here](https://www.qrz.com/db/ms0wsg) |
+| **GS4AGU** | Michael GM5 AUG | 14 April 2023 <br> (*but first issued in late 1971*) | [here](https://www.qrz.com/db/gs4agu) |
 
 Both callsigns are available for Full licence holders within the Club, and can be heard on the bands at various times.
