@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Foundation Licence Training for three new members"
+date:   2023-10-21 17:00:59 +0000
+categories: jekyll update
+---
+
+Today, three new members joined with our three Committee members to undergo their 'Foundation licence in a day' training. The intense day of training, which began at 10.00am, was led by the three Committee members, Alzbeta (MM/OM1DP), Torin (MM1 STK) and Michael (GM5 AUG), and covered all the syllabus points relating to the Foundation licence and exam.
+
+The team, however, wanted it to be more than just a 'How to pass your exam' day, so tried to incorporate real-world examples in to the day, from encourgaing the students to make their first QSOs on the air, through to demonstrating a new packet node established by Michael 'AUG.
+
+The three candidates have their tests booked in the coming weeks: we wish them well and look forward to welcoming three new members into the amateur radio fraternity.
+
+Images from the day:
+
+![Torin leading a session](/images/training/1.jpg)
+<br> Torin leading a session on callsigns and suffixes
+
+![Alzbeta leading on transmitter block theory](/images/training/2.jpg)
+<br> Alzbeta leading a session on transmitter block diagrams and theory
+
+![Getting hands on on two metres](/images/training/3.jpg)
+<br> Getting hands on on two metres
+
+![More getting hands on](/images/training/4.jpg)
+<br> More getting hands on!
