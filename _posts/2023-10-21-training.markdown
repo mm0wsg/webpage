@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Foundation Licence Training for three new members"
-date:   2023-10-21 17:00:59 +0000
+date:   2023-10-21 16:00:59 +0000
 categories: jekyll update
 ---
 
-Today, three new members joined with our three Committee members to undergo their 'Foundation licence in a day' training. The intense day of training, which began at 10.00am, was led by the three Committee members, Alzbeta (MM/OM1DP), Torin (MM1 STK) and Michael (GM5 AUG), and covered all the syllabus points relating to the Foundation licence and exam.
+Today, three new members joined with our three Committee members to undergo their 'Foundation licence in a day' training. The intense day of training, which began at 10.00am, was led by the three Committee members, Alzbeta (MM/OM1DP), Torin (MM1 STK) and Michael (GM5 AUG), and covered all the syllabus points relating to the Foundation licence and exam. The team were fortunate to be able to use material from the Colchester Radio Amateurs, who pioneered the format of 'Foundation in a Day' a number of years ago.
 
 The team, however, wanted it to be more than just a 'How to pass your exam' day, so tried to incorporate real-world examples in to the day, from encourgaing the students to make their first QSOs on the air, through to demonstrating a new packet node established by Michael 'AUG.
 
