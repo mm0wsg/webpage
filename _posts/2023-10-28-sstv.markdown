@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "GUWS member receives SSTV images from the International Space Station"
+date:   2023-10-28 16:00:59 +0000
+categories: jekyll update
+---
+
+Yinan Sun, MM7 HFB, has been busy in the last few days, tuning in to a very special radio broadcast.
+A certain number of times a year, the International Space Station's amateur radio operators broadcast SSTV images. On this occasion, the transmission came from the ISS' Russian module (callsign RS0ISS).
+
+In the early morning of 28th October, Yinan took his homemade tape measure yagi, attached to his Quansheng handheld transceiver, coupled with a decoder, and received these images, transmitted by the Space Station thousands of miles away.
+
+Yinan explained that "the antenna is basically five pieces of tape measure, each gaffer taped to a pole. By the lengths of tape measure being accurately cut, and placed in a particular pattern, an effective yagi antenna can be made from everyday household components."
+
+![Yinan's tape measure yagi](/images/yinan2.jpg)
+
+SSTV, or Slow Scan Television, is used by radio amateurs to encode image data for transfer over the radio. The image is encoded into an audio form (in a similar way to a fax machine message). This is then sent over the airwaves, received by another amateur who can then decode the image using a computer or smartphone app. SSTV has existed since the late 1950s, and was used extensively by the Russian and American space agencies during the 1960s, with many of the now infamous moon landing images being transferred in this way. You can read more about SSTV by [clicking here](https://en.wikipedia.org/wiki/Slow-scan_television).
+
+SSTV has improved in recent years, and colour data can now be encoded into the transmission. Owing to a number of factors, the image quality can vary - not least the fact that Yinan's antenna is homemade and his radio a fairly budget example!
+
+However, as you will see from the image, the picture is clearly discernible and much of the writing legible:
+
+![Yinan's received still](/images/yinan1.jpg)
+
+Congratulations to Yinan for his dedication to the hobby in getting up so early on a Saturday morning!
