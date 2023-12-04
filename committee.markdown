@@ -20,11 +20,11 @@ As per our Constitution, the day to day running of the Society is entrusted to a
 | **<u>Chairman</u>** | **<u>Secretary</u>** | **<u>Treasurer</u>** | **<u>Ordinary Member</u>** |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | **Michael Topple** | **Alžbeta Oravcov** | **Torin Storkey** | vacant |
-| *GM5 AUG* | *MM/ OM1DP* | *MM1 STK* | |
+| *GM5AUG* | *MM/OM1DP* | *MM1STK* | |
 | Divinity Undergraduate | Engineering Undergraduate | Engineering Undergraduate | |
-| [Email Michael](mailto:chairman@mm0wsg.radio) | [Email Alžbeta](mailto:secretary@mm0wsg.radio) | [Email Torin](mailto:treasurer@mm0wsg.radio) |
+| [Email Michael](mailto:contact@gm4agu.radio) | [Email Alžbeta](mailto:contact@gm4agu.radio) | [Email Torin](mailto:contact@gm4agu.radio) |
 | ![Michael](images/Michael.jpg) | ![Alžbeta](images/alzbeta.jpeg) |  ![Torin](images/TorinCrop.jpeg) |
 
-GUWS is grateful to the hard work and sound guidance of former Secretary, Harry GM1VFR
+GUWS is grateful to the hard work and sound guidance of former Secretary, Harry GM1VFR.
 
 For more information on the role of the Commmittee, please see our Constitution tab at the top of the page.
