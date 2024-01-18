@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "GUWS First Meeting of 2024"
+date:   2024-01-18 10:00:59 +0000
+categories: jekyll update
+---
+
+The GUWS met this evening for its first meeting of 2024. After a brief introduction for new members, we proceeded to build a simple dipole for the 10m (28MHz) band.
+
+This was a good opportunity for our two recently licensed MM7s to put their new training into action!
+
+In the pictures below, you can see Tom, Yinan and Adam building the antenna (Michael, Alzbeta, Torin and Paul were hiding behind the camera!)
+
+![Dipole1](images/dipole1.jpg)
+
+![Dipole2](images/dipole2.jpg)
+
+Having tested the dipole, Michael put out a few CQ calls on 10m CW. Sadly, being in a metal framed building, and the band being closed, meant that we didn't make any contacts. However, we now have a 10m dipole we can use for club events.
+
+![Dipole3](images/dipole3.jpg)
+
+We also arranged that, going forward, we will meet fortnightly on a Thursday evening. Our next meeting will be 1st February where, all being well, we will join Paul at the Elderslie Club Shack for an evening playing with satellites! An evening not to be missed.
+
+We will list future dates elsewhere on the website.
+
+Michael GM5AUG - Chairman
