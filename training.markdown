@@ -3,6 +3,8 @@ layout: page
 title: Training
 permalink: /training/
 ---
+[Training books](/images/Train_Bd.jpg)
+
 "In the UK, there are three levels of amateur radio licenses: Foundation, Intermediate, and Full. Each level can be obtained through an online examination. It is not possible to skip levels, but it is possible to take the Direct to Full exam, which covers all three levels.
 
 The Direct to Full exam is a high-risk proposition. It only saves 15% on exam costs compared to taking each level separately. The learning material is the same, so you have to learn all of the same information. If you fail the Direct to Full exam, you will not receive any privileges and you will not be able to operate on the air.
@@ -13,6 +15,8 @@ For most candidates, we recommend progressing from Foundation to Intermediate an
 *(Taken from the OARC Training webpage)*
 
 The GUWS offer training for the Foundation and Intermediate licences. For Foundation, this training takes the form of an intensive 'Foundation Licence in a Day' course, held on a mutually convenient day at the Centre for Contemporary Arts, Sauchiehall Street, Glasgow. On the day course, we will spend approximately five to six hours going through the training material, and then you will take your test that evening (either at the Centre or at your home). For simplicity we use the RSGB's Online Examination suite, although paper tests can be used on request. To date we have run three of these sessions, with a very good pass rate.
+
+[Training session](/images/training/1.jpg)
 
 For the Intermediate training, we train over three sessions (usually one a month). The Intermediate course is a wee bit harder than the Foundation, so spreading it out across three sessions gives you a chance to take everything in. On the last session we can arrange for you to take the test in the evening, or you can book the test at a different time and location. These three sessions will also take place in the CCA, Sauchiehall Street, unless advised otherwise.
 
