@@ -12,7 +12,7 @@ The Direct to Full exam is a high-risk proposition. It only saves 15% on exam co
 We only recommend the Direct to Full exam for people with many years of experience in an associated field and the appropriate qualifications. Another possible reason to take the Direct to Full exam is if you are a non-UK resident who wants to gain HAREC certification to claim a call sign in your country of residence.
 
 For most candidates, we recommend progressing from Foundation to Intermediate and then Full. This provides a structured learning experience and helps you to develop your knowledge and skills gradually."
-*(Taken from the OARC Training webpage)*
+*([Taken from the OARC Training webpage](https://www.oarc.uk/training))*
 
 The GUWS offer training for the Foundation and Intermediate licences. For Foundation, this training takes the form of an intensive 'Foundation Licence in a Day' course, held on a mutually convenient day at the Centre for Contemporary Arts, Sauchiehall Street, Glasgow. On the day course, we will spend approximately five to six hours going through the training material, and then you will take your test that evening (either at the Centre or at your home). For simplicity we use the RSGB's Online Examination suite, although paper tests can be used on request. To date we have run three of these sessions, with a very good pass rate.
 
