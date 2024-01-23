@@ -18,7 +18,7 @@ The GUWS offer training for the Foundation and Intermediate licences. For Founda
 
 ![Training session](/images/training/1.jpg)
 
-For the Intermediate training, we train over three sessions (usually one a month). The Intermediate course is a wee bit harder than the Foundation, so spreading it out across three sessions gives you a chance to take everything in. On the last session we can arrange for you to take the test in the evening, or you can book the test at a different time and location. These three sessions will also take place in the CCA, Sauchiehall Street, unless advised otherwise.
+For the Intermediate training, we train over three sessions (usually across a month, but arranged according to preference). The Intermediate course is a wee bit harder than the Foundation, so spreading it out across three sessions gives you a chance to take everything in. On the last session we can arrange for you to take the test in the evening, or you can book the test at a different time and location. These three sessions will also take place in the CCA, Sauchiehall Street, unless advised otherwise.
 
 For both Intermediate and Foundation training, the dates are arranged ad-hoc, fitted to the needs of the Membership. If you are not a member, you would be welcome to attend the training sessions we are putting on, although we would encourage you to make a donation to club funds.
 
