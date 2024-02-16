@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "All go for 2024!"
+date:   2024-02-15 22:00:59 +0000
+categories: jekyll update
+---
+
+The GUWS year has got off to a flying start, with a visit to the Elderslie Club on 1st February, for an evening of operating, satellite work, and building, and an antenna building workshop on 15th February.
+
+# Satellites at Elderslie
+On 1st February, Tom, Adam and Michael visited the Elderslie Club (in a visit organised by Paul GM0EDJ). While there, Paul demonstrated satellite operation to the newly licensed Tom and Adam:
+
+![satellites](/images/satellites1.jpg)
+
+After this demo, Tom had a go at operating on HF (his first time), overseen by Michael:
+
+![hf oppo](/images/satellites2.jpg)
+
+... while Adam got to work building a 2m Slim Jim antenna from ladder line:
+
+![slimJim](/images/satellites3.jpg)
+
+The GUWS is really grateful to Paul and the Elderslie Club for their hospitality and encouragement.
+
+# Slim Jims on Sauchiehall Street
+
+A fortnight later (15th), we met at the CCA on Sauchiehall Street for an evening of antenna building. The antenna of choice was a 2m Slim Jim made from 450ohm ladder line. This is the antenna that Adam had built a fortnight earlier (as he couldn't make it on 15th).
+
+The evening began with a brief introduction to the antenna, with Torin MM1STK being on hand to explain how the physics worked! Tom, Torin, Yinan and Ross each built a Slim Jim for 2m, with the aim of making our 2m nets easier to operate on.
+
+![table](/images/slimjim1.jpg)
+
+![Tom and Torin](/images/slimjim2.jpg)
+
+Fortunately we had brought a number of soldering irons along for the evening, meaning even the Committee could have a go!
+
+![Torin](/images/slimjim3.jpg)
+
+We were very grateful to Paul GM0EDJ for a) providing the parts, and b) being on hand to show the group how to solder BNC plugs!
+
+![Paul](/images/slimjim4.jpg)
+
+Yinan had made a tape measure yagi antenna before (for listening to the Space Shuttle), but enjoyed making the Slim Jim and learning about its different properties.
+
+![Yinan](/images/slimjim5.jpg)
+
+Tom discovered just how apt the old saying, 'Measure twice, cut once' is, and how important accurate measurements are for antennas like this. We staged an informal SWR contest later on in the evening to see how accurately we had cut and soldered the antennas up!
+
+![Tom](/images/slimjim6.jpg)
+
+The real star of the evening, however, was Alzbeta MM/OM1DP who not only served as an excellent 'mast' for measuring the SWR of completed antennas, but also learned how to solder BNC plugs onto coax and spent the evening hunched over a table dealing with these pesky connectors!
+
+![Alzbeta](/images/slimjim7.jpg)
+
+All in all, we've had a great couple of meetings. If you are interested in learning more about the club or the hobby, why not come along to our next meeting on 29th, when we have a visiting speaker coming to talk to us about SOTA.
